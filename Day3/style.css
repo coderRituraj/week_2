@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+}
+
+.card {
+   font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 30%;
+    justify-items: left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+    transition: 0.3s;
+
+    border-radius: 5px; /* 5px rounded corners */
+    background-color: blanchedalmond;
+
+    background-repeat: no-repeat;
+
+    background-position: 50% 50%;
+
+    background-size: cover;
+
+    width: 500px;
+
+    height: 500px;
+
+    margin-left: 400px;
+}
+#heading{
+    text-align:  center;
+    margin-left: 50px;
+}
