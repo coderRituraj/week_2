@@ -1,0 +1,49 @@
+<html>
+<head>
+   
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2 id="heading">Hello Alien</h2>
+    <div class="card">
+    
+        
+        
+       
+           
+                <img src="https://images.pexels.com/photos/2227958/pexels-photo-2227958.jpeg?cs=srgb&dl=pexels-james-frid-2227958.jpg&fm=jpg/"  width="500" height="500" >
+                <figcaption> Charlie </figcaption><br>
+                <figcaption><b> Charlie was one of the great actor,Charlie Chaplin was a commedian British actor who became one of the biggest stars of the 20th century's silent-film era. Who Was Charlie Chaplin? Charlie Chaplin worked with a children's dance troupe before making his mark on the big screen.</b> </figcaption>
+                
+           
+    </div>
+<br>
+           
+    <div class="card">
+           
+                <img src="https://images.pexels.com/photos/6102958/pexels-photo-6102958.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"  width="500" height="500" > 
+                <figcaption>Desert</figcaption><br>
+                <figcaption> <b>The desert can be described as an area that receives less than 25 centimeters (10 inches) of rainfall annually.
+                    The word desert  means an abandoned place.
+                    Deserts can be categorized into four main categories: Hot and dry deserts, cold deserts, semi-arid deserts, and coastal...
+                    One-third or approx. Thirty-three percent of the total land of earth is covered in forests.</b></figcaption>
+          
+    
+            </div>
+            <br>
+            <div class="card">
+
+                <img src="https://images.pexels.com/photos/2792601/pexels-photo-2792601.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" width="500" height="500" >
+                <figcaption>Ancient Architecture </figcaption> <br>
+                <figcaption><b>Ancient Indian architecture ranges from the Indian Bronze Age to around 800 CE. By this endpoint Buddhism in India had greatly declined, and Hinduism was predominant, and religious and secular building styles had taken on forms, with great regional variation, which they largely retain even after some forcefu</b></figcaption>
+          
+            
+    </div>
+
+    <div class ="container">
+       
+    </div>
+ 
+    
+</body>
+</html>
